@@ -1,1 +1,0 @@
-Training neural network model
